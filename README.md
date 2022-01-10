@@ -1,4 +1,4 @@
-![Heathrxw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heathrxw&count_private=true&show_icons=true&theme=radical)
+<p align="center">![Heathrxw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heathrxw&count_private=true&show_icons=true&theme=radical)<p>
 <br />
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Heathrxw&repo=Hypixel-Stat-Tracker&theme=radical)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Heathrxw&repo=Minecraft-Plugins&theme=radical)
