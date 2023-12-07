@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Fun Random Discord Bot Commands<br>🌱 I’m currently learning Full Stack Web Development<br>💬 Ask me about Astrology<br>⚡ Fun fact I make Minecraft Videos
+🔭 I’m currently working on Hypixel Mods<br>💬 Ask me about Skyblock<br>⚡ Fun fact I make Minecraft Videos
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Heathrxw&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Heathrxw&icon=0&color=0)](https://visitcount.itsvg.in)
